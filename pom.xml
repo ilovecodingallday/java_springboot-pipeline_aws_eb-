@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>java-server</finalName>
+		<finalName>javaserver</finalName>
 	</build>
 
 </project>
